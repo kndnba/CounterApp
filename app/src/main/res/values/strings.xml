@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CounterApp Kotlin edition</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="reset">reset</string>
+    <string name="zero">0</string>
+</resources>
